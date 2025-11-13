@@ -28,7 +28,7 @@ header {
 
 header h1 {
     font-size: 2.5em;
-    color: #007AFF;
+    color: #FF6B00;
     margin-bottom: 10px;
 }
 
@@ -42,7 +42,7 @@ main {
 }
 
 h1 {
-    color: #007AFF;
+    color: #FF6B00;
     margin-bottom: 20px;
     font-size: 2em;
 }
@@ -82,7 +82,7 @@ li {
 }
 
 .doc-list h2 {
-    color: #007AFF;
+    color: #FF6B00;
     border-bottom: 2px solid #FF6B00;
 }
 
@@ -101,7 +101,7 @@ li {
     background-color: #f8f9fa;
     border-radius: 8px;
     text-decoration: none;
-    color: #007AFF;
+    color: #FF6B00;
     font-weight: 500;
     transition: all 0.3s ease;
     border: 1px solid #e0e0e0;
@@ -126,7 +126,7 @@ li {
 }
 
 .meta-info strong {
-    color: #007AFF;
+    color: #FF6B00;
 }
 
 .back-link {
@@ -150,7 +150,7 @@ footer {
 }
 
 footer a {
-    color: #007AFF;
+    color: #FF6B00;
     text-decoration: none;
 }
 
